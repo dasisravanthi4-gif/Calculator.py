@@ -22,3 +22,16 @@ cd path/to/folder
 ### 2.Run the file
 python Calculator.py
 
+-----
+## Requirments
+-> Python3.xinstalled
+       (To check version: python --version or python3 --version)
+
+### Example 
+Enter your calculation(or type 'exit' to quit):
+3*5
+Result: 15
+Enter your calculation(or type 'exit' to quit):
+10/0
+Error! Division by zero.
+
