@@ -31,6 +31,7 @@ python Calculator.py
 Enter your calculation(or type 'exit' to quit):
 3*5
 Result: 15
+
 Enter your calculation(or type 'exit' to quit):
 10/0
 Error! Division by zero.
